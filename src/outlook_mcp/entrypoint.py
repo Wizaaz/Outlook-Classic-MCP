@@ -1,3 +1,5 @@
+"""CLI entry point: ``outlook-mcp`` and ``python -m outlook_mcp``."""
+
 from __future__ import annotations
 
 import logging
